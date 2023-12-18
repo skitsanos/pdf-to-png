@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/adrg/sysfont v0.1.2
-	github.com/unidoc/unipdf/v3 v3.52.0
+	github.com/unidoc/unipdf/v3 v3.53.0
 )
 
 require (
@@ -15,7 +15,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.5.0 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
-	github.com/unidoc/freetype v0.2.1 // indirect
+	github.com/unidoc/freetype v0.2.3 // indirect
 	github.com/unidoc/pkcs7 v0.2.0 // indirect
 	github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a // indirect
 	github.com/unidoc/unitype v0.2.1 // indirect

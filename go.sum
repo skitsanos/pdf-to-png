@@ -40,6 +40,8 @@ github.com/unidoc/freetype v0.0.0-20220130190903-3efbeefd0c90 h1:Rk4easgDQslR3DK
 github.com/unidoc/freetype v0.0.0-20220130190903-3efbeefd0c90/go.mod h1:mJ/Q7JnqEoWtajJVrV6S1InbRv0K/fJerPB5SQs32KI=
 github.com/unidoc/freetype v0.2.1 h1:H0fP9gKlfkdZXlmKcvyGMHOkT1vcg/9k0Jqu9UeoKN8=
 github.com/unidoc/freetype v0.2.1/go.mod h1:mJ/Q7JnqEoWtajJVrV6S1InbRv0K/fJerPB5SQs32KI=
+github.com/unidoc/freetype v0.2.3 h1:uPqW+AY0vXN6K2tvtg8dMAtHTEvvHTN52b72XpZU+3I=
+github.com/unidoc/freetype v0.2.3/go.mod h1:mJ/Q7JnqEoWtajJVrV6S1InbRv0K/fJerPB5SQs32KI=
 github.com/unidoc/garabic v0.0.0-20220702200334-8c7cb25baa11/go.mod h1:SX63w9Ww4+Z7E96B01OuG59SleQUb+m+dmapZ8o1Jac=
 github.com/unidoc/pkcs7 v0.0.0-20200411230602-d883fd70d1df/go.mod h1:UEzOZUEpJfDpywVJMUT8QiugqEZC29pDq7kdIZhWCr8=
 github.com/unidoc/pkcs7 v0.1.0 h1:9bQfbWMYsIfUP8PyhTcBudOsvbLpNH0MBv4U0P/jDTE=
@@ -53,6 +55,8 @@ github.com/unidoc/unipdf/v3 v3.42.0 h1:z7yF1+u+sJxUpQQyYT4gPNKt6Ft1ey/yFYkGPCzTN
 github.com/unidoc/unipdf/v3 v3.42.0/go.mod h1:3RPr6hXP+PNjuoACxvqv1UujSTjoapl4iuiobt/Lccw=
 github.com/unidoc/unipdf/v3 v3.52.0 h1:yhgUhqDfT2oBiidsixpWFIVF1tZf5dvKq7rkMoXmRQk=
 github.com/unidoc/unipdf/v3 v3.52.0/go.mod h1:nsyu8C7iOhmASFPmYkwQ6nFhSnIpHOKxQeDfaS80m38=
+github.com/unidoc/unipdf/v3 v3.53.0 h1:xUgG/MH2iUHaar554w6OrL0qTKNy4AWzb19z0RyIExs=
+github.com/unidoc/unipdf/v3 v3.53.0/go.mod h1:sEXO/chguUL1RAtyPnGos2BbCBGjL9dusmdT5b13eBg=
 github.com/unidoc/unitype v0.2.1 h1:x0jMn7pB/tNrjEVjy3Ukpxo++HOBQaTCXcTYFA6BH3w=
 github.com/unidoc/unitype v0.2.1/go.mod h1:mafyug7zYmDOusqa7G0dJV45qp4b6TDAN+pHN7ZUIBU=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
