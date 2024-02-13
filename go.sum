@@ -59,6 +59,8 @@ github.com/unidoc/unipdf/v3 v3.53.0 h1:xUgG/MH2iUHaar554w6OrL0qTKNy4AWzb19z0RyIE
 github.com/unidoc/unipdf/v3 v3.53.0/go.mod h1:sEXO/chguUL1RAtyPnGos2BbCBGjL9dusmdT5b13eBg=
 github.com/unidoc/unipdf/v3 v3.54.0 h1:e4mhnljZpwGI7xDwcptZUveHMdowF7fF/00GDrPLbIA=
 github.com/unidoc/unipdf/v3 v3.54.0/go.mod h1:xvgaJZ5l/iPpsR/I2LTwNtixL12H9ITRNnZnm6a77iE=
+github.com/unidoc/unipdf/v3 v3.55.0 h1:hPkhl+BCZoRLgk+cOW8mdRZ8SUjOj/8HsSRAOmzw5CE=
+github.com/unidoc/unipdf/v3 v3.55.0/go.mod h1:06Q/thbRvuQSYiRdtpZ4rZjIug7hg1TJpifNMG7PcBU=
 github.com/unidoc/unitype v0.2.1 h1:x0jMn7pB/tNrjEVjy3Ukpxo++HOBQaTCXcTYFA6BH3w=
 github.com/unidoc/unitype v0.2.1/go.mod h1:mafyug7zYmDOusqa7G0dJV45qp4b6TDAN+pHN7ZUIBU=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
