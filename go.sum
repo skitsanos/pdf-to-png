@@ -21,6 +21,7 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/gabriel-vasile/mimetype v1.4.3 h1:in2uUcidCuFcDKtdcBxlR0rJ1+fsokWf+uqxgUFjbI0=
 github.com/gabriel-vasile/mimetype v1.4.3/go.mod h1:d8uq/6HKRL6CGdk+aubisF/M5GcPfT7nKyLpA0lbSSk=
 github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
+github.com/gorilla/i18n v0.0.0-20150820051429-8b358169da46 h1:N+R2A3fGIr5GucoRMu2xpqyQWQlfY31orbofBCdjMz8=
 github.com/gorilla/i18n v0.0.0-20150820051429-8b358169da46/go.mod h1:2Yoiy15Cf7Q3NFwfaJquh7Mk1uGI09ytcD7CUhn8j7s=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.2 h1:DB17ag19krx9CFsz4o3enTrPXyIXCl+2iCXH/aMAp9s=
@@ -67,6 +68,8 @@ github.com/unidoc/pkcs7 v0.2.0/go.mod h1:UEzOZUEpJfDpywVJMUT8QiugqEZC29pDq7kdIZh
 github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a h1:RLtvUhe4DsUDl66m7MJ8OqBjq8jpWBXPK6/RKtqeTkc=
 github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a/go.mod h1:j+qMWZVpZFTvDey3zxUkSgPJZEX33tDgU/QIA0IzCUw=
 github.com/unidoc/unichart v0.1.0/go.mod h1:9sJXeqxIIsU2D07tmhpDMoND0mBFRGfKBJnXZMsJnzk=
+github.com/unidoc/unichart v0.3.0 h1:VX1j5yzhjrR3f2flC03Yat6/WF3h7Z+DLEvJLoTGhoc=
+github.com/unidoc/unichart v0.3.0/go.mod h1:8JnLNKSOl8yQt1jXewNgYFHhFm5M6/ZiaydncFDpakA=
 github.com/unidoc/unipdf/v3 v3.42.0 h1:z7yF1+u+sJxUpQQyYT4gPNKt6Ft1ey/yFYkGPCzTNUY=
 github.com/unidoc/unipdf/v3 v3.42.0/go.mod h1:3RPr6hXP+PNjuoACxvqv1UujSTjoapl4iuiobt/Lccw=
 github.com/unidoc/unipdf/v3 v3.52.0 h1:yhgUhqDfT2oBiidsixpWFIVF1tZf5dvKq7rkMoXmRQk=
@@ -87,6 +90,8 @@ github.com/unidoc/unipdf/v3 v3.59.0 h1:Kgo1+s/KYQyz7YLvBTrH9vu0E7Q0hPklm8KmVBGPA
 github.com/unidoc/unipdf/v3 v3.59.0/go.mod h1:HEGsUAyg0cI46ofB2D4b6FzBXzVM2P1mHvQ5R+HxONs=
 github.com/unidoc/unipdf/v3 v3.60.0 h1:ck1Es8tHTaKTCHvwh/hgUdsClzguCi36K3W7lNYbcVw=
 github.com/unidoc/unipdf/v3 v3.60.0/go.mod h1:0OIzSHHno23Y8WzaK+852abK8d3AxUZ1GQkMqpyCzu8=
+github.com/unidoc/unipdf/v3 v3.61.0 h1:oyp0jnY1JxTcrNSpC7xTBw5aWg35IqLanwI2klqjvbw=
+github.com/unidoc/unipdf/v3 v3.61.0/go.mod h1:0OIzSHHno23Y8WzaK+852abK8d3AxUZ1GQkMqpyCzu8=
 github.com/unidoc/unitype v0.2.1 h1:x0jMn7pB/tNrjEVjy3Ukpxo++HOBQaTCXcTYFA6BH3w=
 github.com/unidoc/unitype v0.2.1/go.mod h1:mafyug7zYmDOusqa7G0dJV45qp4b6TDAN+pHN7ZUIBU=
 github.com/unidoc/unitype v0.4.0 h1:/TMZ3wgwfWWX64mU5x2O9no9UmoBqYCB089LYYqHyQQ=
