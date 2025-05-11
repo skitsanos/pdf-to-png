@@ -5,6 +5,7 @@ go 1.20
 require (
 	github.com/adrg/sysfont v0.1.2
 	github.com/unidoc/unipdf/v3 v3.69.0
+	github.com/unidoc/unipdf/v4 v4.0.0
 )
 
 require (
