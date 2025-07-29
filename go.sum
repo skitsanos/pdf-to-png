@@ -116,6 +116,7 @@ github.com/unidoc/unipdf/v3 v3.69.0 h1:lW9Ljmc/kHzNRqz7Oo9l2wG6G85mwIgBZuDqsTg1x
 github.com/unidoc/unipdf/v3 v3.69.0/go.mod h1:4mQ4E8niuY+30TGxT1e/8aVoSk/nn0yCKfi+kYw98+I=
 github.com/unidoc/unipdf/v4 v4.0.0/go.mod h1:SbSYFUoutyBR+hLlsHyNiCzzcSVVuG10S5Xu8RIJ6EY=
 github.com/unidoc/unipdf/v4 v4.1.0/go.mod h1:SbSYFUoutyBR+hLlsHyNiCzzcSVVuG10S5Xu8RIJ6EY=
+github.com/unidoc/unipdf/v4 v4.2.0/go.mod h1:csApn6iwjybsHb43/6BSXAubkSumZ7et0zlcIpJ4iXI=
 github.com/unidoc/unitype v0.2.1 h1:x0jMn7pB/tNrjEVjy3Ukpxo++HOBQaTCXcTYFA6BH3w=
 github.com/unidoc/unitype v0.2.1/go.mod h1:mafyug7zYmDOusqa7G0dJV45qp4b6TDAN+pHN7ZUIBU=
 github.com/unidoc/unitype v0.4.0 h1:/TMZ3wgwfWWX64mU5x2O9no9UmoBqYCB089LYYqHyQQ=
