@@ -1,11 +1,11 @@
 module pdf-to-png
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/adrg/sysfont v0.1.2
-	github.com/unidoc/unipdf/v5 v5.0.0
-	github.com/unidoc/unipdf/v5 v5.0.0
+	github.com/unidoc/unipdf/v3 v3.69.0
+	github.com/unidoc/unipdf/v5 v5.1.0
 )
 
 require (
