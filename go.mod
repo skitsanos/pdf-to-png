@@ -4,8 +4,8 @@ go 1.25.0
 
 require (
 	github.com/adrg/sysfont v0.1.2
-	github.com/unidoc/unipdf/v5 v5.2.0
-	github.com/unidoc/unipdf/v5 v5.2.0
+	github.com/unidoc/unipdf/v3 v3.69.0
+	github.com/unidoc/unipdf/v5 v5.3.0
 )
 
 require (
@@ -19,7 +19,7 @@ require (
 	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/stretchr/testify v1.12.1 // indirect
 	github.com/unidoc/freetype v0.2.5 // indirect
-	github.com/unidoc/pkcs7 v0.4.1 // indirect
+	github.com/unidoc/pkcs7 v0.5.0 // indirect
 	github.com/unidoc/timestamp v0.0.0-20200412005513-91597fd3793a // indirect
 	github.com/unidoc/unichart v0.5.2 // indirect
 	github.com/unidoc/unitype v0.5.1 // indirect
